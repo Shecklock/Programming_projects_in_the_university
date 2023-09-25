@@ -2,11 +2,18 @@
 
 <h2>Description</h2>
 This is all the programming project I have done in the first year of my Cybersecurity degree, we start in Processing and changed to Eclpise for Java.
-The learning object/timeline are as below:
+
+<h2>Skills/Environment used</h2>
+- Processing(https://processing.org/)
+- Eclipse(https://www.eclipse.org/)
+- Java
+
+<h2>Learning timeline</h2>
+The learning object/timeline are as the list below:
 
 26-Sep-2022 to 31-oct-2022: Leaning to program, getting hands on the workstation(Processing: https://processing.org/) leaning the very very basic such as Iterations, methods and classes and objects.
 
-Objective and corresponeding files name:
+Objective and corresponeding files name
 
 Learning to program: sketch_220928a.pde 
 Making decisions in code: sketch_221003c.pde 
